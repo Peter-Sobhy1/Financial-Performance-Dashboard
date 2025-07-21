@@ -35,11 +35,7 @@ It helps business users track key financial metrics, analyze product and custome
   - `gold_dim_customers`  
   - `Calendar` (Date Dimension)
 
-- **Measures** (in a separate table):
-  - `% to Goal Revenue`
-  - `% to Goal COGS`
-  - `% to Goal Units Sold`
-  - `% to Goal Gross Profit`
+![Data Model!](https://github.com/Peter-Sobhy1/Financial-Performance-Dashboard/blob/main/Assets/Data%20Model.png?raw=true)
 
 ---
 
