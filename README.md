@@ -43,13 +43,13 @@ It helps business users track key financial metrics, analyze product and custome
 
 ## 🧱 Data Model Overview
 
-- **Fact Table**:  
-  - `gold_fact_sales`
+- ### Fact Table:  
+  - **`gold_fact_sales`**
 
-- **Dimension Tables**:  
-  - `gold_dim_products`  
-  - `gold_dim_customers`  
-  - `Calendar` (Date Dimension)
+- ### Dimension Tables:  
+  - **`gold_dim_products`**  
+  - **`gold_dim_customers`**  
+  - **`Calendar`** (Date Dimension)
 
 ## 📷 Screenshot – Data Model
 ![Data Model!](https://github.com/Peter-Sobhy1/Financial-Performance-Dashboard/blob/main/Assets/Data%20Model.png?raw=true)
@@ -58,7 +58,7 @@ It helps business users track key financial metrics, analyze product and custome
 
 ## 📌 Key Insights
 
-This report uncovered several important insights based on analysis of product, sales, and customer data:
+### This report uncovered several important insights based on analysis of product, sales, and customer data:
 
  🌍 **Top 5 Countries by Revenue**
 
