@@ -35,6 +35,7 @@ It helps business users track key financial metrics, analyze product and custome
   - `gold_dim_customers`  
   - `Calendar` (Date Dimension)
 
+## 📷 Screenshot – Data Model
 ![Data Model!](https://github.com/Peter-Sobhy1/Financial-Performance-Dashboard/blob/main/Assets/Data%20Model.png?raw=true)
 
 ---
@@ -65,11 +66,6 @@ This report uncovered several important insights based on analysis of product, s
 - 🧮 Custom DAX measures to compare actuals vs goals
 - 📅 Slicers and filters for time, product, and customer dimensions
 - 💼 Executive-friendly dashboard view for quick insights
-
----
-
-## 📷 Screenshot – Data Model
-![Data Model](./Sales%20Dashboard.png)
 
 ---
 
