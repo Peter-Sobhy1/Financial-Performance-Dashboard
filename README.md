@@ -58,6 +58,8 @@ This report uncovered several important insights based on analysis of product, s
 
 ### 🔢 Profit Margin, Revenue, COGs, Units Sold, Gross Profit
 
+
+
 > 💡 These insights enable targeted strategies for top-performing products, markets, and customer segments, while helping monitor performance trends over time.
 
 ---
