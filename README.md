@@ -20,7 +20,8 @@ It helps business users track key financial metrics, analyze product and custome
 
 ## 📁 Report Pages & Dashboard
 
-1. **Revenue** – Revenue breakdown by time, customer, and product
+1. ### Revenue **Revenue breakdown by time, customer, and product**
+
 ![Revenue](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/Revenue.png?raw=true)
 
 2. **COGS** – Cost of goods sold and cost trend analysis
