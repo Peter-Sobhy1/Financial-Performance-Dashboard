@@ -46,17 +46,17 @@ It helps business users track key financial metrics, analyze product and custome
 
 This report uncovered several important insights based on analysis of product, sales, and customer data:
 
-### 🌍 Top 5 Countries by Revenue
+ 🌍 **Top 5 Countries by Revenue**
 
-### 🛒 Top 5 Products by Units Sold
+ 🛒 **Top 5 Products by Units Sold**
 
-### 📦 Top 5 Product Categories by Revenue
+ 📦 **Top 5 Product Categories by Revenue**
 
-### 👤 Top 5 Customers by Purchase Value
+ 👤 **Top 5 Customers by Purchase Value**
 
-### 📈 Sales Trend Over Time
+ 📈 **Sales Trend Over Time**
 
-### 🔢 Profit Margin, Revenue, COGs, Units Sold, Gross Profit
+ 🔢 **Profit Margin, Revenue, COGs, Units Sold, Gross Profit**
 
 
 
