@@ -1,4 +1,4 @@
-# Financial-Performance-Dashboard
+# Sales-Performance-Dashboard
 
 **Link** for the dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTczZmM2ZDgtNjJkMy00YjgxLWIyMWEtOTg4OGRjYTUzMzFjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
 
