@@ -2,6 +2,8 @@
 
 **Link** for the dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTczZmM2ZDgtNjJkMy00YjgxLWIyMWEtOTg4OGRjYTUzMzFjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
 
+![Sales Dashboard](https://github.com/Peter-Sobhy1/Sales-Performance-Dashboard/blob/main/Assets/Dashboard.png?raw=true)
+
 ## 🗂️ Project Overview
 This Power BI report provides a comprehensive **financial and sales performance overview** using data sourced from a centralized **Data Warehouse (DWH)**. The dashboard includes separate pages for Revenue, Cost of Goods Sold (COGS), Units Sold, Gross Profit, and an executive summary Dashboard.
 
