@@ -87,7 +87,9 @@ This report was developed to simulate real-world BI reporting scenarios and show
 ---
 
 ## 📎 Tools Used
+- Power BI Service
 - Power BI Desktop
+- Power Query
 - SQL (Data Warehouse Queries)
 - DAX (Custom Measures & KPIs)
 
