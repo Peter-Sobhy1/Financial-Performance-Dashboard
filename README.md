@@ -20,20 +20,24 @@ It helps business users track key financial metrics, analyze product and custome
 
 ## 📁 Report Pages & Dashboard
 
-1. ### Revenue **Revenue breakdown by time, customer, and product**
+ ### 1. Revenue: breakdown Revenue by time, customer, and product
 
 ![Revenue](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/Revenue.png?raw=true)
 
-2. **COGS** – Cost of goods sold and cost trend analysis
+### 2. COGS: Cost of goods sold and cost trend analysis
+
 ![COGs](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/COGs.png?raw=true)
 
-3. **Units Sold** – Units sold by product and time
+### 3. Units Sold: Units sold by product and time
+
 ![Units Sold](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/Units%20Sold.png?raw=true)
 
-4. **Gross Profit** – Profitability analysis and performance vs goals
+### 4. Gross Profit: Profitability analysis and performance vs goals
+
 ![Gross Profit](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/Gross%20Profit.png?raw=true)
 
-5. **Dashboard** – High-level KPIs and summary visuals
+### 5. Dashboard: High-level KPIs and summary visuals
+
 ![Dashboard](https://github.com/Peter-Sobhy1/Financials-and-Sales-Performance-Dashboard/blob/main/Assets/Dashboard.png?raw=true)
 ---
 
